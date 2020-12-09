@@ -1,0 +1,2 @@
+# python
+cursuri de python
